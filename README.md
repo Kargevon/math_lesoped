@@ -5,4 +5,4 @@
 
 Поглязеть и потыкать:
 
-<iframe src="https://www.desmos.com/calculator/a8bej0lo2w?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe>
+https://www.desmos.com/calculator/a8bej0lo2w
