@@ -1,0 +1,5 @@
+a_{3}=a+a_{1}w+w
+b_{3}=-\left(a_{3}-a-a_{1}w-w\right)-b
+\left(x-a_{3}\right)^{2}+\left(y-b_{3}\right)^{2}=w^{2}
+u_{3}=\frac{a_{3}}{w}+s
++b_{3}+\tan\left(-u_{3}\right)\left(x-a_{3}\right)\left\{-\left|\cos\left(u_{3}\right)\right|w+a_{3}<x<\left|\cos\left(u_{3}\right)\right|w+a_{3}\right\}

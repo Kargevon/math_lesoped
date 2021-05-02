@@ -1,0 +1,5 @@
+\left(x-a_{21}\right)^{2}+\left(y+b\right)^{2}=w_{1}^{2}
+u_{1}=\frac{a}{w_{1}}
+a_{21}=+wa_{2}+a+\frac{w}{2}
+-b+\tan\left(-u_{1}\right)\left(x-a_{21}\right)\left\{-\left|2\cos\left(u_{1}\right)\right|w_{1}+a_{21}<x<\left|2\cos\left(u_{1}\right)\right|w_{1}+a_{21}\right\}
+w_{1}=\frac{w}{10}
